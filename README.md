@@ -1,5 +1,5 @@
 # CryptoClustering
-
+ 
 ## Project Overview
 
 This project aims to cluster cryptocurrencies based on their market data to identify patterns or trends. Two methods are used for clustering: one using original data and the other using Principal Component Analysis (PCA) data.
